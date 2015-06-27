@@ -1,0 +1,11 @@
+
+.map-container {
+
+	padding: 0px;
+
+	#map-canvas {
+		height: calc(100vh - #{$navbar-height});
+	}
+
+}
+
